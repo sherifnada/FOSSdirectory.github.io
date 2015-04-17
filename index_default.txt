@@ -42,6 +42,7 @@
 				<!-- padding -->
   				<a href="http://github.com/kevingurney" class="list-group-item">Kevin Gurney</a>
 				<!-- padding -->
+				<a href="http://github.com/sherifnada" class="list-group-item">Sherif Nada</a>
 			</div>
 
 		</div>
